@@ -33,6 +33,7 @@ Built an intelligent chatbot that leverages Ollama’s Gemma3 large language mod
 ---
 
 ## Author
-Nirant Bendale
+Rishi Kulkarni
 
 ---
+
